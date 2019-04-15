@@ -1,0 +1,18 @@
+Pour rendre le jeu plus fun, avec plus de temps, j'aurais pu rajouter ces améliorations :
+- Plusieurs niveaux avec plus ou moins de cubes
+- Un objectif de score avec un nombre d'étoiles nécessaires pour passer au niveau suivant
+- Un mode infini où il faut marquer le plus de points et quand on fait tomber 3 cubes, on a perdu
+- Un mode 2 joueurs où il ne faut que toucher les cubes de sa couleur
+- Les cubes tombent de plus en plus vite
+- Des bombes qu'il ne faut pas toucher sinon on perd des points
+- Un bonus qui détruit tous les cubes sur l'écran
+- Un bonus qui ralentit le temps
+- Un bonus qui double les points
+- D'autres objets que des cubes
+- Des couleurs différentes pour les cubes
+- Des cubes qui se séparent en deux plus petits si on les touche
+- Des cubes de différentes tailles
+- De la musique et des sons
+- Des animations sur les boutons
+- Des animations de transition entre les scènes
+- Des effets de particules pour l'apparition et la disparition des cubes
